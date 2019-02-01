@@ -110,7 +110,7 @@ Let's test the ipynb integration:
 
 <script src="https://gist.github.com/kraenkem/80f5c0513f8f5517f800a667efba0d67.js"></script>
 
-Yes, that is working. :) 
+
 
 ```python
 import numpy as np
